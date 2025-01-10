@@ -1,1 +1,1 @@
-# battleshiop-duel
+# battleship-duel
