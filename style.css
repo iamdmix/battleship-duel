@@ -7,14 +7,14 @@ margin: 0;
 padding: 0;
 box-sizing: border-box;
 }
-
-/* Body Styling /
-body {
+/* 
+Body Styling / */
+/* body {
 background-color: #121212; / Deep dark background /
-color: #cccccc; / Light text for contrast */
+color: #cccccc; / Light text for contrast 
 font-family: 'Montserrat', sans-serif;
 overflow-x: hidden;
-}
+} */
 
 /* Use the gamified font for headings and interactive texts */
 .splash-title,
@@ -48,11 +48,11 @@ font-size: 1.5rem;
 padding: 0.7em 1.5em;
 border: none;
 border-radius: 5px;
-background-color: #ff7f50; / Vibrant coral */
+background-color: #ff7f50; / Vibrant coral 
 color: #fff;
 cursor: pointer;
 transition: background-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
-}
+}*/
 
 .btn:hover,
 .btn:focus {
@@ -85,10 +85,10 @@ display: grid;
 background-color: #2c3e50; / Dark blue tone /
 grid-template-rows: repeat(10, 4.6vmin);
 grid-template-columns: repeat(10, 4.6vmin);
-border: 2px solid #1abc9c; / Attractive teal border */
+border: 2px solid #1abc9c; / Attractive teal border 
 border-radius: 8px;
 box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
-}
+}*/
 
 .battleship-grid div {
 border: 1px dashed #34495e;

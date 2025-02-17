@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Battleship Blitz
 
 Battleship Blitz is a local multiplayer web-based Battleship game where two players take turns trying to sink each other's fleet.
@@ -42,7 +41,3 @@ Battleship Blitz is a local multiplayer web-based Battleship game where two play
 - Sound effects for hits/misses
 
 ## License
-This project is licensed under the MIT License.
-=======
-# battleship-duel
->>>>>>> 952ef56b3232a4f2c3f4ade84bb9941d6f8dbfc5
