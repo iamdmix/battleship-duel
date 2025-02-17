@@ -23,6 +23,28 @@ overflow-x: hidden;
 .btn {
 font-family: 'Press Start 2P', cursive;
 }
+#gameplay-instructions {
+    font-family: 'Press Start 2P', cursive; /* Matches other sections */
+    font-size: 1.2rem;
+    text-align: center;
+    margin: 1rem;
+    padding: 0.5rem;
+    background-color: #1e272e;
+    color: #f5f6fa;
+    border-radius: 5px;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.7);
+}
+#ship_types{
+    font-family: 'Press Start 2P', cursive; /* Matches other sections */
+    font-size: 1.2rem;
+    text-align: center;
+    margin: 1rem;
+    padding: 0.5rem;
+    background-color: #1e272e;
+    color: #f5f6fa;
+    border-radius: 5px;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.7);
+}
 
 /* Splash Screen & Title - Landing Page */
 .splash-container {
